@@ -1,4 +1,4 @@
-# CSDS 201 – Data Structures Projects (Fall 2020)
+# CSDS 202 – Data Structures Projects (2020)
 
 This repository includes three major C++ projects developed by **İlke Kaş (21803184)** for **CSDS 201 – Data Structures, Section 3** at Bilkent University in 2020. Each folder showcases the implementation of core data structures and algorithmic concepts through practical, performance-driven applications.
 
